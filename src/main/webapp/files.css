@@ -1,0 +1,28 @@
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #000;
+    margin: 1em 0;
+    padding: 0;
+}
+
+img {
+    height: 30px;
+    width: 30px;
+}
+a{
+    text-decoration: none;
+}
+
+th {
+    text-align: left;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+}
